@@ -1,8 +1,12 @@
 <!DOCTYYPE css>
-body {
-	background-color: black;
+html, body {
+ background: rgb(191, 214, 255);
 }
 
 h1 {
-	color: white;
+ color: white;
+}
+
+p {
+	color: rgb(140, 094, 245);
 }
